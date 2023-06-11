@@ -2,6 +2,11 @@
 
 Stopwatch is a JavaFX application that provides a simple and user-friendly stopwatch functionality. It allows you to start, stop, and reset the stopwatch timer. The application features a graphical user interface (GUI) that displays the elapsed time in the format HH:MM:SS.mmm.
 
+## Screenshots
+
+<img width="400" alt="image" src="https://github.com/KashifKhaan/Stop-Watch-JavaFX/assets/88695658/a3b8c990-a5df-4767-9aff-e1d6ecef03f4">
+
+
 ## Features
 
 - Start the stopwatch timer.
