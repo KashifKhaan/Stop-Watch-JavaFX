@@ -6,7 +6,6 @@ Stopwatch is a JavaFX application that provides a simple and user-friendly stopw
 
 <img width="400" alt="image" src="https://github.com/KashifKhaan/Stop-Watch-JavaFX/assets/88695658/a3b8c990-a5df-4767-9aff-e1d6ecef03f4">
 
-
 ## Features
 
 - Start the stopwatch timer.
@@ -15,11 +14,34 @@ Stopwatch is a JavaFX application that provides a simple and user-friendly stopw
 
 ## Getting Started
 
-To run the Stopwatch application, you need to have Java 8 or later installed on your system.
+To run the Stopwatch application, you need to have Java 8 or later installed on your system and set up a JavaFX development environment.
+
+### Setting up JavaFX
+
+1. Download the JavaFX SDK from the official website: [JavaFX Downloads](https://gluonhq.com/products/javafx/).
+
+2. Extract the downloaded archive to a location on your system.
+
+3. Set up the JavaFX environment variable in your development environment:
+   - In your project's IDE, go to the project settings or build configurations.
+   - Add a new system environment variable named `PATH_TO_FX` and set its value to the path of the extracted JavaFX SDK directory.
+   - Apply the changes and save the configuration.
+
+### Building and Running the Application
 
 1. Clone the repository or download the source code.
+
 2. Open the project in your preferred Java Integrated Development Environment (IDE).
-3. Build and run the application.
+
+3. Configure the JavaFX runtime:
+   - In your project's IDE, go to the project settings or build configurations.
+   - Add the JavaFX runtime module to the project dependencies or module path.
+   - Specify the JavaFX runtime arguments, such as `--module-path` and `--add-modules`, to include the required JavaFX modules.
+   - Apply the changes and save the configuration.
+
+4. Build and run the application:
+   - Build the project to compile the source code.
+   - Run the project using the specified JavaFX runtime configuration.
 
 ## Usage
 
@@ -44,8 +66,13 @@ You can customize the appearance and behavior of the Stopwatch application accor
 - Add additional functionality: You can extend the application by adding features such as lap times, lap counters, or export functionality to save the recorded time data.
 
 ## Contributing
+Contributions are welcome! If you'd like to enhance Code-Chat by adding new features, improving existing functionality, or integrating additional Components, please follow these steps:
 
-Contributions to the Stopwatch project are welcome. If you find any bugs, have suggestions for improvements, or would like to add new features, please submit a pull request or open an issue on the project repository.
+- Fork the repository.
+- Create a new branch for your feature: git checkout -b feature/my-feature.
+- Make the necessary changes and commit them: git commit -m 'Add some feature'.
+- Push the changes to your branch: git push origin feature/my-feature.
+- Submit a pull request detailing your changes.
 
 ## Acknowledgments
 
