@@ -79,7 +79,8 @@ Contributions are welcome! If you'd like to enhance Code-Chat by adding new feat
 The Stopwatch project was developed using Java and JavaFX. Special thanks to the Java community and the JavaFX framework for providing the necessary tools and resources for building GUI applications.
 
 ## License
-There's no rights reserved for this project, You are free to include it in original form or modified with or without additional modification in your own project
+
+This project is licensed under the terms of the [Apache License](LICENSE). Please see the [LICENSE](LICENSE) file for more details.
 
 
 ## 🔗 Contact
