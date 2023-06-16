@@ -66,7 +66,7 @@ You can customize the appearance and behavior of the Stopwatch application accor
 - Add additional functionality: You can extend the application by adding features such as lap times, lap counters, or export functionality to save the recorded time data.
 
 ## Contributing
-Contributions are welcome! If you'd like to enhance Code-Chat by adding new features, improving existing functionality, or integrating additional Components, please follow these steps:
+Contributions are welcome! If you'd like to enhance stop-watch by adding new features, improving existing functionality, or integrating additional Components, please follow these steps:
 
 - Fork the repository.
 - Create a new branch for your feature: git checkout -b feature/my-feature.
